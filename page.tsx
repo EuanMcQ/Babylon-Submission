@@ -23,7 +23,7 @@ export default function Home() {
         </Link>
 
         <Link
-          href="/Register"
+          href="/register"
           className="bg-white hover:bg-gray-100 text-indigo-600 px-6 py-3 rounded-md font-semibold border border-indigo-500 transition"
         >
           Sign Up
